@@ -16,11 +16,11 @@ from sugar3.activity.widgets import ActivityToolbarButton
 from sugar3.activity.widgets import StopButton
 from sugar3.graphics.toolbutton import ToolButton
 
-
-class OrangeJAMath(Activity):
+from sugarapp.widgets import SugarCompatibleActivity
+class OrangeJAMath(SugarCompatibleActivity):
 
     def __init__(self, handle):
-        Activity.__init__(self, handle)
+        SugarCompatibleActivity.__init__(self, handle)
 
         self.max_participants = 1
 
