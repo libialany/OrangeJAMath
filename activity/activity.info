@@ -4,6 +4,6 @@ license = GPLv3+
 activity_version = 1.0.2
 bundle_id = org.sugarlabs.OrangeJAMath
 icon = OrangeJAMath
-exec = sugar-activity3 activity.OrangeJAMath
+exec = sugar-activity3 OrangeJAMath.OrangeJAMath
 show_launcher = yes
 repository = https://github.com/libialany/OrangeJAMath.git
