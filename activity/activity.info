@@ -1,5 +1,6 @@
 [Activity]
 name = OrangeJAMath
+license = GPLv3+;MIT
 activity_version = 1
 bundle_id = xyz.OrangeJAMath
 icon = OrangeJAMath
